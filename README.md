@@ -17,11 +17,8 @@
 
 Users should be able to:
 
-#### - 
+#### - Hover over the sqaures and the squares will light up with different colors
 
-#### - 
-
-#### - 
 
 ### Features
 
@@ -32,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Hoverboard GitHub Solution](https://github.com/MaryAngelique/hoverboard-app)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: Hoverboard website
 
 ## My process
 

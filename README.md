@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Hoverboard GitHub Solution](https://github.com/MaryAngelique/hoverboard-app)
-- Live Site URL: Hoverboard website
+- Live Site URL: [Hoverboard Website](https://hoverboard-alpha.vercel.app/)
 
 ## My process
 

@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Hoverboard GitHub Solution](https://github.com/MaryAngelique/hoverboard-app)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
@@ -40,12 +40,8 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
-- CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
-- Media Queries
 
 ## Author
 
